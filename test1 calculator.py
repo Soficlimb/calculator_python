@@ -1,7 +1,7 @@
 
 a = float (input("Input the first number: "))
 
-what = input('What function? (+,-,*,\) :')
+what = input('What function? (+,-,*,/) :')
 
 b = float (input("Input the second number:"))
 
