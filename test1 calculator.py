@@ -1,19 +1,10 @@
-#Калькулятор V1 (цветной)
 
-#from colorama import init
-#from colorama import Fore, Back, Style
 
-# use Colorama to make Termcolor work on Windows too
-#init()
-
-#print( Fore.BLACK ) #цвет текста
-#print( Back.GREEN ) #цвет фона
-
-what = input('Что делаем? (+,-,*,\) :')
+what = input('What function? (+,-,*,\) :')
 
 #print( Back.CYAN)
 
-a = float (input("введи певое число: "))
+a = float (input("Input the first number: "))
 b = float (input("Введи второе число:"))
 
 #print( Back.MAGENTA)
